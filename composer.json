@@ -1,0 +1,12 @@
+{
+    "name": "conforg/conf-traveler",
+    "description": "A travel management tool for conference organisers",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michelangelo van Dam",
+            "email": "dragonbe@gmail.com"
+        }
+    ]
+}
